@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "Iphone 12 pro max",
+      "category": "electronics",
+      "freshness": "Second Hand",
+      "price": 1000,
+      "comment": "Sierra Blue",
+      "date": "2022-03-13T18:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "orange",
+      "category": "fruits",
+      "freshness": "Brand New ",
+      "price": 1,
+      "comment": "fresh",
+      "date": "2022-03-14T18:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "iphone 13",
+      "category": "vegetable",
+      "freshness": "Second Hand",
+      "price": 1200,
+      "comment": "latest",
+      "date": "2022-03-21T18:00:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
